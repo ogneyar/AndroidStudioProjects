@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878342693897",
+    "firebase_url": "https://itprogerbase.firebaseio.com",
+    "project_id": "itprogerbase",
+    "storage_bucket": "itprogerbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878342693897:android:d5dbf3d2a004ac22d844d8",
+        "android_client_info": {
+          "package_name": "ru.prizmarket.itproger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878342693897-h8oodidtj31t6gj0c4jqolv4b20827ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.prizmarket.itproger",
+            "certificate_hash": "a279d43781db4f09ea4ef2fbd4528944a7204299"
+          }
+        },
+        {
+          "client_id": "878342693897-5tpsem9ag4056v7ncdf14c1ti7v5j0uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Zc5dzGOUD1CjONPR8HQWDEKa3vaEOV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878342693897-5tpsem9ag4056v7ncdf14c1ti7v5j0uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

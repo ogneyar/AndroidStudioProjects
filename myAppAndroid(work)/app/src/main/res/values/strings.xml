@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">myAppAndroid</string>
+    <string name="title_activity_main">Главная страница!</string>
+
+    <string name="startText">Добро пожаловать!</string>
+    <string name="centerText">А ну затести кнопки!</string>
+    <string name="changeText">Нажми!</string>
+    <string name="nextActivity">Далее</string>
+
+    <string name="title_activity_second">Второстепенная страница!</string>
+    <string name="exit_btn">Выход</string>
+    <string name="back_btn">Назад</string>
+    <string name="todo">TODO</string>
+
+</resources>

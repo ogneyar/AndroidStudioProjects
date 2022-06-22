@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">myAppAndroid</string>
+    <string name="title_activity_main">Главная страница!</string>
+
+    <string name="startText">Добро пожаловать!</string>
+    <string name="centerText">"Это тестовое приложение!"</string>
+    <string name="changeText">Нажми!</string>
+    <string name="nextActivity">Тест 1</string>
+
+    <string name="title_activity_second">Проверка звука!</string>
+    <string name="exit_btn">Выход</string>
+    <string name="back_btn">Назад</string>
+    <string name="downText">"Нажми на картинку!"</string>
+
+    <string name="todo">TODO</string>
+
+    <string name="nextActivity3">Тест 2</string>
+    <string name="title_activity_third">Запись текста в файл!</string>
+    <string name="hint_multiLine">Введите любой текст</string>
+    <string name="save">Сохранить</string>
+    <string name="output">Вывести</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ItProger</string>
+    <string name="app_name_after">Register App</string>
+    <string name="textBottom">Войдите в свою учётную запись</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnRegister">Зарегистрироваться</string>
+</resources>
