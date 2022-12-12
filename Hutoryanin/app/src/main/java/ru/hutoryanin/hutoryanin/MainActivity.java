@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         web = (WebView)findViewById(R.id.webView);
         WebSettings ws = web.getSettings();
         ws.setJavaScriptEnabled(true);
-        web.loadUrl("https://hutoryanin.herokuapp.com");
+        web.loadUrl("https://hutoryanin.ru");
         web.setWebViewClient(new WebViewClient());
     }
 
